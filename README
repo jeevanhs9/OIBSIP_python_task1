@@ -1,0 +1,20 @@
+# OIBSIP Python Programming Internship
+
+## Task: BMI Calculator 
+
+### Objective:
+The objective of this task is to build a Python application that calculates Body Mass Index (BMI) using user input and displays the health category.
+
+### Steps Performed:
+- Collected user input (height and weight)
+- Applied BMI formula
+- Displayed BMI result with category
+- Tested program with different inputs
+
+### Tools & Technologies Used:
+- Python
+- PyCharm
+- Basic Python libraries
+
+### Outcome:
+Successfully developed a working BMI calculator using Python. This project improved my understanding of user input, conditions, and Python logic building.
